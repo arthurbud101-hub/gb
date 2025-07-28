@@ -63,3 +63,4 @@ https://www.zeitbank.com.br
 https://pixelpag.com/
 https://reflowpayments.com.br/
 https://kupfy.com
+https://dashboard.xgateglobal.com/auth/login
