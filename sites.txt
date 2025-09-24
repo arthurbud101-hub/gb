@@ -100,6 +100,22 @@ https://www.bravospay.com.br/
 https://beeteller.com/
 https://lovypay.com/#inicio
 https://www.recb.com.br/site/#home     API DO SITE >   https://documenter.getpostman.com/view/5034290/RWgxuvRX#ca4215cb-7d83-42f4-a197-f1d45037d16c
+https://api.webpag.com.br/business/login   >    https://bi.webpag.com.br/identity/login?ReturnUrl=%2F
+https://isaac.com.br/
+https://samvidha.com.br/pay/
+https://backoffice.openfinance.muevy.com.br/
+https://edunext.com.br/
+http://dlocal.com/pt/
+https://splitwave.com.br/
+https://efex.finance/
+https://poolpay.com.br/
+https://imobia.app/
+https://entrepay.com.br/
+https://switchpay.com.br/
+https://www.infiniaweb.com/pt
+https://www.menlopagamentos.com.br/
+
+
 
 
 
