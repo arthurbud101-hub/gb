@@ -114,7 +114,9 @@ https://entrepay.com.br/
 https://switchpay.com.br/
 https://www.infiniaweb.com/pt
 https://www.menlopagamentos.com.br/
-
+https://app.hub.la/signin
+https://fleetpay.tech/
+https://gerenciador.edinheiro.org/legacy/login
 
 
 
