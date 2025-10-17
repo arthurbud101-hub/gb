@@ -119,6 +119,8 @@ https://fleetpay.tech/
 https://gerenciador.edinheiro.org/legacy/login
 https://www.superbidpay.com.br/login
 https://inovanti.com.br/
+https://wallet.netspaces.org/signin/
+https://loopi.finance/
 
 
 
